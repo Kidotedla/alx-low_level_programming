@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E /c/0x00/main.c
+gcc -E /c/0x00/main.c > /c/0x00/c.i
