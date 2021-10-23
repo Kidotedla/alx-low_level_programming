@@ -1,20 +1,13 @@
-#include "_putchar.c"
+#include "holberton.h"
+
 /**
- * main - Entry block
- * Description: prints _putchar on new line
+ * print _putchar
  * Return: 0
  */
-int main(void)
-{
-	char c[9] = "_putchar";
+int main(void) 
+{ int i;
 
-	int i = 0;
-
-	while (i < 9)
-	{
-		_putchar(c[i]);
-		i++;
-	}
-	_putchar('\n');
-	return (0);
+ _putchar(i);
+	
+	_putchar('\n');}
 }
